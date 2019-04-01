@@ -1,1 +1,7 @@
-1)Create a program that will generate random numbers in the interval [a; b] and fill them with a two-dimensional array of 10 by 10. In the array, you must find the line number with the minimum element. Swap the rows of the array in places, the string with the minimum element and the first row of the array. Organize a convenient output to the screen.
+1)
+Create a program that will generate random numbers in the interval [a; b] 
+and fill them with a two-dimensional array of N(10) by N(10). In the array, you must find the line number with the minimum element.
+Swap the rows of the array in places, the string with the minimum element and the first row of the array. 
+Organize a convenient output to the screen.
+
+2)
